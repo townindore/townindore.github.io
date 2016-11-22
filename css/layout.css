@@ -187,7 +187,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background: #282A36;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -203,12 +203,12 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #A0A0A0;
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 240px;
+   height: 220px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -318,7 +318,7 @@ ul#nav li.current a { color: #F06000; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+  	background: #282A36;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
@@ -582,7 +582,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #call-to-action {
-   background: #212121;
+   background: #282A36;
    padding-top: 66px;
    padding-bottom: 48px;
 }
